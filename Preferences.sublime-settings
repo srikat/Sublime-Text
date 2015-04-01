@@ -1,0 +1,42 @@
+{
+	"auto_complete_delay": 0,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.min.*",
+		".DS_Store",
+		"*.psd",
+		"*.sublime-workspace"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".sass-cache",
+		".svn",
+		"bower_components",
+		"node_modules"
+	],
+	"font_size": 17,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"CSS"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"open_files_in_new_window": false,
+	"save_on_focus_lost": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
